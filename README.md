@@ -27,6 +27,5 @@ Análise exploratória de dados salariais na área de Ciência de Dados entre 20
 - Python 3.8+
 - Pandas (manipulação de dados)
 - Seaborn/Matplotlib (visualização)
-- Jupyter Notebook (análise interativa)
 
 Link do Collab: https://colab.research.google.com/github/juancssantos/BOAS_PRATICAS_DADOS_MVP_PUC/blob/main/Analise_boas_patricas_MVP_PUC.ipynb
